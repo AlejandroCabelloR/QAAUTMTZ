@@ -35,5 +35,3 @@ WebUI.delay(1)
 
 WebUI.click(findTestObject('Page_Portal - miHumanForce/i_Contrasea Cambiada Correctamente_fa fa-times panel-close'))
 
-WebUI.acceptAlert()
-
