@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CambioPasword_NOK</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab9121d9-f534-4bcf-afa0-320ff25956e1</testCaseGuid>
+</TestCaseEntity>

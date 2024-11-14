@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ingresar Portal HumanForce</name>
+   <tag></tag>
+   <elementGuidId>ac31b6dd-6939-41d9-ab82-9123133eda0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ma-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='B98847946786027073']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ingresar Portal HumanForce&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e91f3d56-3e2f-4af3-8642-a927d963eccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ma-button-label</value>
+      <webElementGuid>39bef474-5756-4929-8bcc-6152f52737b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingresar Portal HumanForce</value>
+      <webElementGuid>30df3d70-a195-496a-93e5-96b9d5e204f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;B98847946786027073&quot;)/span[@class=&quot;ma-button-label&quot;]</value>
+      <webElementGuid>cd328821-8417-42de-b268-d45d857dd08f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='B98847946786027073']/span</value>
+      <webElementGuid>9f9fb276-ef3f-4f75-b982-189f47396e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese Contraseña'])[1]/following::span[1]</value>
+      <webElementGuid>f249574c-15a2-416a-85f4-32943073ad11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='METSO S.A'])[1]/following::span[4]</value>
+      <webElementGuid>0209eab6-2c95-4f27-8c93-dea7444148b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opciones'])[1]/preceding::span[1]</value>
+      <webElementGuid>3da9132b-4031-4638-9c48-16eceb08195e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olvido Su Contraseña?'])[1]/preceding::span[1]</value>
+      <webElementGuid>fa040496-fa2b-444b-b963-b4c3859c8109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingresar Portal HumanForce']/parent::*</value>
+      <webElementGuid>32a4f2d7-8d9c-44e1-96c9-c93ec3851de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>5b535db3-d214-4b8d-b788-2864fc00486d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ingresar Portal HumanForce' or . = 'Ingresar Portal HumanForce')]</value>
+      <webElementGuid>7ab95344-6980-4c3a-8456-3f900a87cc38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

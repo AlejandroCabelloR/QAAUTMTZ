@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contraseas deben ser iguales</name>
+   <tag></tag>
+   <elementGuidId>5f1f7e9b-4e48-407b-bb96-4a2df51792a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-Notification-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Alert_Success']/div/div[2]/div/span/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Contraseñas deben ser iguales.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4eaeb916-6b65-4ada-b523-fb0c3d6183a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>46e4a20d-78a9-4675-a4c7-07ac5f67263e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-for</name>
+      <type>Main</type>
+      <value>P16_PASSWORD_2</value>
+      <webElementGuid>bc2e261b-e4bf-4492-b9d8-79d5f4b7a6f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Notification-link</value>
+      <webElementGuid>06e65a34-97f8-4491-8ab4-3762c9f0c3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contraseñas deben ser iguales.</value>
+      <webElementGuid>f2612d48-d114-4057-a710-547d703fbde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/span[@class=&quot;t-Alert-title&quot;]/div[@class=&quot;a-Notification a-Notification--error&quot;]/ul[@class=&quot;a-Notification-list htmldbUlErr&quot;]/li[@class=&quot;a-Notification-item htmldbStdErr&quot;]/a[@class=&quot;a-Notification-link&quot;]</value>
+      <webElementGuid>50134a18-ee95-433a-8b0b-70c92d243bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/span/div/ul/li/a</value>
+      <webElementGuid>dde8d722-3d7f-4ae8-8d89-5b7b9dfa0208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contraseñas deben ser iguales.')]</value>
+      <webElementGuid>36816e84-3bb4-4570-bb44-5ad6844447df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha producido 1 error'])[1]/following::a[1]</value>
+      <webElementGuid>f9c3a25f-dd2d-4ddc-ba60-4fa3257e8d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activar Modo de Lector de Pantalla'])[1]/following::a[1]</value>
+      <webElementGuid>f1f0f9f5-6640-4003-a86d-5517d0e63249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>2a3cdfbf-00da-4d8d-96dc-7b93b761cbe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/ul/li/a</value>
+      <webElementGuid>9ba18d4a-ea1f-4f67-9c86-0536c0792f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Contraseñas deben ser iguales.' or . = 'Contraseñas deben ser iguales.')]</value>
+      <webElementGuid>dd14bd3a-87a2-46e7-bcbc-69e4e2eca5b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
