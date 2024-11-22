@@ -15,28 +15,28 @@
       <guid>41de44a7-ee71-47ae-b15a-2f0ad85c0d18</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Login</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3cad1ce0-c1c0-4bb4-99ba-c62c0ffd46cb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/APP PortalAdmin</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/APP PortalAdmin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8ce22f95-40c7-4369-b37d-77c439576751</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/VolverPortal</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/VolverPortal</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>28d1226b-62ff-4207-8c49-b51ee13d3968</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Logout</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

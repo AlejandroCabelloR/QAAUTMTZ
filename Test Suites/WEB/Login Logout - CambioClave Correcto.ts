@@ -15,21 +15,21 @@
       <guid>41de44a7-ee71-47ae-b15a-2f0ad85c0d18</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Login</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>11c7148e-7fe4-495f-b65f-85e4a5f04f6e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/CambioPasword_OK</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/CambioPasword_OK</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>28d1226b-62ff-4207-8c49-b51ee13d3968</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Logout</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
