@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LoginMetso Logout</name>
+   <name>Login Logout</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>afd52a5f-9518-48c8-9a83-6ad18cb978ac</testSuiteGuid>
+   <testSuiteGuid>086e3d19-8eff-4895-88f0-8e4fa355aedf</testSuiteGuid>
    <testCaseLink>
       <guid>41de44a7-ee71-47ae-b15a-2f0ad85c0d18</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/HMF/Login - Rut Metso</testCaseId>
+      <testCaseId>Test Cases/WEB/HMF/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
