@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://bylyshw7.adb.us-ashburn-1.oraclecloudapps.com/ords/r/portal/fiscv20116/f-login-sv?session=114684091575817')
+WebUI.navigateToUrl(GlobalVariable.URLF)
 
 WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
 
