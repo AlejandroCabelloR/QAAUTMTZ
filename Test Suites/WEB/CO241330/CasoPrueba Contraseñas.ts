@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/WEB/Login Logout - CambioClave Correcto</testSuiteEntity>
+         <testSuiteEntity>Test Suites/WEB/HMF/Login Logout - CambioClave Correcto</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Edge Chromium</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/WEB/Login Logout - CambioClave Incorrecto</testSuiteEntity>
+         <testSuiteEntity>Test Suites/WEB/HMF/Login Logout - CambioClave Incorrecto</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

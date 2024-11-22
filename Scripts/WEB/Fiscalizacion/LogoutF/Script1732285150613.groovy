@@ -17,14 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Object Repository/Page_Home/span_ALEJANDRO.CABELLO.RIOSAUTOMATIZA.CL_a-_d43c9e'))
 
-WebUI.navigateToUrl('https://bylyshw7.adb.us-ashburn-1.oraclecloudapps.com/ords/r/portal/fiscv20116/f-login-sv?session=114684091575817')
-
-WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Password_P9998_PASSWORD'), 
-    'ZPB7kCZgQyzmmpSS2+uzzw==')
-
-WebUI.click(findTestObject('Page_miHumanForce - Fiscalizador/button_Ingresar'))
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Salir del Fiscalizador'))
 
