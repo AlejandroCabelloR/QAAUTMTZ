@@ -10,7 +10,7 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>MiHumanForce_pro</profileName>
+            <profileName>MHF_pro</profileName>
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
@@ -20,7 +20,7 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>MiHumanForce_pro</profileName>
+            <profileName>MHF_pro</profileName>
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Edge Chromium</runConfigurationId>
          </configuration>
