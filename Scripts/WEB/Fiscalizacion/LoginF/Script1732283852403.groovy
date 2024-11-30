@@ -24,7 +24,7 @@ WebUI.navigateToUrl(GlobalVariable.URLF)
 WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Password_P9998_PASSWORD'), 
-    'ZPB7kCZgQyzmmpSS2+uzzw==')
+    'AWcLnF8kAGycNbA98Cr5qg==')
 
 WebUI.click(findTestObject('Page_miHumanForce - Fiscalizador/button_Ingresar'))
 
