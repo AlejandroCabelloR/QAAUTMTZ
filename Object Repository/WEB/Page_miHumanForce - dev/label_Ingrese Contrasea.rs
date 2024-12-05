@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ingrese Contrasea</name>
+   <tag></tag>
+   <elementGuidId>05a11727-2a3a-4e8b-95b0-fd4429aafd43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P101_PASSWORD_LABEL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='P101_PASSWORD_LABEL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ingrese Contraseña&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>831796ce-a43e-4409-93d8-5b7f3ac64e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P101_PASSWORD</value>
+      <webElementGuid>13c12c22-62a6-4915-bae6-6c104f1946b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P101_PASSWORD_LABEL</value>
+      <webElementGuid>5de0a8e1-b02d-4341-b980-92d7c85d760c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ingrese Contraseña    </value>
+      <webElementGuid>b3c15d88-005d-4e52-b49a-deba4d709317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P101_PASSWORD_LABEL&quot;)</value>
+      <webElementGuid>9593fd8f-5e26-4163-954e-e03c1e08bc7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='P101_PASSWORD_LABEL']</value>
+      <webElementGuid>647faa57-9737-400e-ba40-7dd9675443ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P101_PASSWORD_CONTAINER']/label</value>
+      <webElementGuid>1cb930f6-b5c5-4335-8d1a-87e37e00ed79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='METSO S.A'])[1]/following::label[1]</value>
+      <webElementGuid>a582f6c0-e9c0-4d43-aaee-1a09272fd1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatiza'])[1]/following::label[1]</value>
+      <webElementGuid>1123dec7-a237-4639-9fc3-08326678e963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresar Portal HumanForce'])[1]/preceding::label[1]</value>
+      <webElementGuid>ced1d853-d3f2-48a4-9972-7a8eb9445e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opciones'])[1]/preceding::label[1]</value>
+      <webElementGuid>2d03c92d-6b68-4023-914b-436c9f93dbf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese Contraseña']/parent::*</value>
+      <webElementGuid>bef03f9a-5e32-4ecf-a65e-fa6d5e05b020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/label</value>
+      <webElementGuid>a6ce7118-1316-434e-a35f-abb282013b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'P101_PASSWORD_LABEL' and (text() = '
+Ingrese Contraseña    ' or . = '
+Ingrese Contraseña    ')]</value>
+      <webElementGuid>14fc2e88-4864-499f-94bf-7c98f976f36e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

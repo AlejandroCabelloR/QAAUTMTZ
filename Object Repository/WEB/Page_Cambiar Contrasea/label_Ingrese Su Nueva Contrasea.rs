@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ingrese Su Nueva Contrasea</name>
+   <tag></tag>
+   <elementGuidId>8f0f19c9-caa7-4218-bfcf-608c91ba9452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='P16_PASSWORD_1_LABEL']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P16_PASSWORD_1_LABEL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ingrese Su Nueva Contraseña&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6ee58325-558a-4ef8-9cfc-694cbfc2682a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P16_PASSWORD_1</value>
+      <webElementGuid>87d975e1-a7e2-4c91-b4ac-72ca8b546419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P16_PASSWORD_1_LABEL</value>
+      <webElementGuid>73c6eb01-c625-469a-ae26-85a9fbe53fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ingrese Su Nueva Contraseña    </value>
+      <webElementGuid>3de1b001-d7be-410c-b55c-20f5c3710090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P16_PASSWORD_1_LABEL&quot;)</value>
+      <webElementGuid>9d6b3c29-4eed-4950-9d80-e6c03002c164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='P16_PASSWORD_1_LABEL']</value>
+      <webElementGuid>f8384b67-aae4-4002-9b56-1f585bbdbd3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P16_PASSWORD_1_CONTAINER']/label</value>
+      <webElementGuid>2228496b-c7be-435a-80f9-bbdfb219b250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar Contraseña'])[4]/following::label[1]</value>
+      <webElementGuid>da03eadb-56fe-447f-8468-d9de2e094163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* No debe contener espacios'])[1]/following::label[1]</value>
+      <webElementGuid>11c421f9-97db-49b4-9af7-e6682d3942fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repita Su Nueva Contraseña'])[1]/preceding::label[1]</value>
+      <webElementGuid>f028d80a-8eff-48e3-b129-856777b10cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{modal-footer}'])[1]/preceding::label[2]</value>
+      <webElementGuid>b5e0fa60-1a56-44cd-a805-33928ea9f0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese Su Nueva Contraseña']/parent::*</value>
+      <webElementGuid>2e4a02eb-e860-4530-91a9-5ecffe46475f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/label</value>
+      <webElementGuid>9aafb0fa-7368-406b-9282-979e84b2aa3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'P16_PASSWORD_1_LABEL' and (text() = '
+Ingrese Su Nueva Contraseña    ' or . = '
+Ingrese Su Nueva Contraseña    ')]</value>
+      <webElementGuid>78d2d828-3fbe-4e87-b111-cc1d071016ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
