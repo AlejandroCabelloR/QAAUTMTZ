@@ -21,10 +21,12 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URLF)
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Password_P9998_PASSWORD'), 
-    'AWcLnF8kAGycNbA98Cr5qg==')
+    'gtvpFF9FqgGcQ6EHTEeECQ==')
 
 WebUI.click(findTestObject('Page_miHumanForce - Fiscalizador/button_Ingresar'))
 
