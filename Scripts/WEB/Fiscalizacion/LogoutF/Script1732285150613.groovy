@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Home/span_ALEJANDRO.CABELLO.RIOSAUTOMATIZA.CL_a-_d43c9e'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Home/span_ALEJANDRO.CABELLO.RIOSAUTOMATIZA.CL_a-_d43c9e'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home/span_Salir del Fiscalizador'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Home/span_Salir del Fiscalizador'))
 

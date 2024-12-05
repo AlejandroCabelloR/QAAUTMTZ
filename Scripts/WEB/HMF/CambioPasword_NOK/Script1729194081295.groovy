@@ -17,21 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Portal - miHumanForce/i_Opciones_fa fa-caret-down'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Portal - miHumanForce/i_Opciones_fa fa-caret-down'))
 
-WebUI.click(findTestObject('Object Repository/Page_Portal - miHumanForce/a_Cambiar Contrasea'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Portal - miHumanForce/a_Cambiar Contrasea'))
 
-WebUI.click(findTestObject('Object Repository/Page_Cambiar Contrasea/label_Ingrese Su Nueva Contrasea'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Cambiar Contrasea/label_Ingrese Su Nueva Contrasea'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Cambiar Contrasea/input_Cambiar Contrasea_P16_PASSWORD_1'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/WEB/Page_Cambiar Contrasea/input_Cambiar Contrasea_P16_PASSWORD_1'), 
     'BD7RouBgtIi/+RXZqglwkA==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Cambiar Contrasea/input_Ingrese Su Nueva Contrasea_P16_PASSWORD_2'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/WEB/Page_Cambiar Contrasea/input_Ingrese Su Nueva Contrasea_P16_PASSWORD_2'), 
     'GYeuM6ErPq8VfoTYN/S01g==')
 
-WebUI.click(findTestObject('Object Repository/Page_Cambiar Contrasea/button_Cambiar'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_Cambiar Contrasea/button_Cambiar'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Page_Cambiar Contrasea/i_Se ha producido 1 error_fa fa-times panel-close'))
+WebUI.click(findTestObject('WEB/Page_Cambiar Contrasea/i_Se ha producido 1 error_fa fa-times panel-close'))
 

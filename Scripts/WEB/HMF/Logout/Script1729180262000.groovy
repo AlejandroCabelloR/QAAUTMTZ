@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Page_miHumanForce - dev/span_Salir'))
+WebUI.click(findTestObject('WEB/Page_miHumanForce - dev/span_Salir'))
 
 WebUI.closeBrowser()
 

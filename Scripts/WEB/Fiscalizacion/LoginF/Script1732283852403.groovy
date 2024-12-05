@@ -21,10 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URLF)
 
-WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
+WebUI.setText(findTestObject('Object Repository/WEB/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Password_P9998_PASSWORD'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/WEB/Page_miHumanForce - Fiscalizador/input_Password_P9998_PASSWORD'), 
     'ZPB7kCZgQyzmmpSS2+uzzw==')
 
-WebUI.click(findTestObject('Page_miHumanForce - Fiscalizador/button_Ingresar'))
+WebUI.click(findTestObject('WEB/Page_miHumanForce - Fiscalizador/button_Ingresar'))
 

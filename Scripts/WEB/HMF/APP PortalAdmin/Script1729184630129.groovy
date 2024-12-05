@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Page_miHumanForce - dev/Page_Portal - miHumanForce/a_Ingresar APP Portal'))
+WebUI.click(findTestObject('WEB/Page_miHumanForce - dev/Page_Portal - miHumanForce/a_Ingresar APP Portal'))
 

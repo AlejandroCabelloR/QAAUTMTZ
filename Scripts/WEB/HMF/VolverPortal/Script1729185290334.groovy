@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.check(findTestObject('Page_miHumanForce - dev/Page_Portal - miHumanForce/span_Volver al Portal'))
+WebUI.check(findTestObject('WEB/Page_miHumanForce - dev/Page_Portal - miHumanForce/span_Volver al Portal'))
 

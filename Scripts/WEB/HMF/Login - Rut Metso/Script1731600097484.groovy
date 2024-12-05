@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.click(findTestObject('Object Repository/Page_miHumanForce - dev/label_Ingrese Cuenta de Usuario'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_miHumanForce - dev/label_Ingrese Cuenta de Usuario'))
 
-WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - dev/input_miHumanForce Cloud_P101_USERNAME'), '16299967-2')
+WebUI.setText(findTestObject('Object Repository/WEB/Page_miHumanForce - dev/input_miHumanForce Cloud_P101_USERNAME'), '16299967-2')
 
-WebUI.click(findTestObject('Object Repository/Page_miHumanForce - dev/label_Ingrese Contrasea'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_miHumanForce - dev/label_Ingrese Contrasea'))
 
 WebUI.delay(3)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_miHumanForce - dev/input_METSO S.A_P101_PASSWORD'), 'G/8cSt2gw7a95W3uC5sBkA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/WEB/Page_miHumanForce - dev/input_METSO S.A_P101_PASSWORD'), 'G/8cSt2gw7a95W3uC5sBkA==')
 
-WebUI.click(findTestObject('Object Repository/Page_miHumanForce - dev/span_Ingresar Portal HumanForce'))
+WebUI.click(findTestObject('Object Repository/WEB/Page_miHumanForce - dev/span_Ingresar Portal HumanForce'))
 
