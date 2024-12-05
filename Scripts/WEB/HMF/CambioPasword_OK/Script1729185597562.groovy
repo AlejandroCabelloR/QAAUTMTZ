@@ -33,5 +33,7 @@ WebUI.click(findTestObject('Object Repository/Page_Cambiar Contrasea/button_Camb
 
 WebUI.delay(1)
 
+WebUI.verifyElementText(findTestObject('Page_Portal - miHumanForce/div_Contrasea Cambiada Correctamente'), 'Contraseña Cambiada Correctamente.')
+
 WebUI.click(findTestObject('Page_Portal - miHumanForce/i_Contrasea Cambiada Correctamente_fa fa-times panel-close'))
 
