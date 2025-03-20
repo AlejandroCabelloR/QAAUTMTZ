@@ -26,7 +26,7 @@ WebUI.maximizeWindow()
 WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Username_P9998_USERNAME'), 'alejandro.cabello.rios@automatiza.cl')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_miHumanForce - Fiscalizador/input_Password_P9998_PASSWORD'), 
-    'gtvpFF9FqgGcQ6EHTEeECQ==')
+    'L3b5p6ZEUR4=')
 
 WebUI.click(findTestObject('Page_miHumanForce - Fiscalizador/button_Ingresar'))
 

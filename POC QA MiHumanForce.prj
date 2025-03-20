@@ -6,12 +6,12 @@
    <UUID>1eb10fb9-0786-4204-bd07-ec1a5ea4fe98</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>9.7.2</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.7.3</modifiedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Ususario\Documents\Automatiza\Katalon Studio\QAAUTMTZ\POC QA MiHumanForce.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Ususario\git\QAAUTMTZ\POC QA MiHumanForce.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
